@@ -5,7 +5,7 @@ const Header = () => {
     <div className="flex gap-4 flex-col md:flex-row justify-between md:items-center">
       <div className="flex gap-4 items-center">
         <img
-          src="src/assets/images/Octocat.png"
+          src="/images/Octocat.png"
           alt="Reddit Octocat logo"
           className="w-14"
         />
