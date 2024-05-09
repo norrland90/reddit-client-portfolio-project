@@ -24,6 +24,7 @@ This is my solution to the Portfolio Project: Reddit Client for Full-Stack Engin
 ### Links
 
 - GitHub URL: [https://github.com/norrland90/reddit-client-portfolio-project]
+- Live URL: [https://redditclientnorrland90.netlify.app/]
 
 ### Contact
 
